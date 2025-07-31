@@ -65,10 +65,6 @@ To build a clean, interactive dashboard that allows HR teams to:
 
 ---
 
-## 🖼 Preview
-![Dashboard Screenshot](link-to-screenshot-if-available)
-
----
 
 ## 📁 How to Use
 1. Download the Excel file from the repository.
